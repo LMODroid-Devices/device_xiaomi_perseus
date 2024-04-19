@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_perseus.mk
+    $(LOCAL_DIR)/lmodroid_perseus.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_perseus-user \
-    lineage_perseus-userdebug \
-    lineage_perseus-eng
+    lmodroid_perseus-user \
+    lmodroid_perseus-userdebug \
+    lmodroid_perseus-eng
