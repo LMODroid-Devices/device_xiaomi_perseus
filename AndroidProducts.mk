@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_perseus.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_perseus-user \
-    lmodroid_perseus-userdebug \
-    lmodroid_perseus-eng
